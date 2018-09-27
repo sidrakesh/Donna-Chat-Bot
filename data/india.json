@@ -1,0 +1,14 @@
+{
+  "name": {"value": "India"},
+  "alias": {"value": "Republic of India"},
+  "capital": {"value": "New Delhi"},
+  "description": {"value": "India is a country in South Asia. It is the seventh-largest country by area, the second-most populous country with over 1.2 billion people, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the south-west, and the Bay of Bengal on the south-east, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north-east; and Myanmar (Burma) and Bangladesh to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; in addition, India's Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia."},
+  "president": {"value": "Pranab Mukherjee"},
+  "prime minister": {"value": "Narendra Modi"},
+  "vice president": {"value": "Mohammad Hamid Ansari"},
+  "chief justice": {"value": "H. L. Dattu"},
+  "minister of defence": {"value": "Manohar Parrikar"},
+  "anthem": {"value": "Jana Gana Mana"},
+  "independence day": {"value": "15th August"},
+  "republic day": {"value": "26th January"}
+}

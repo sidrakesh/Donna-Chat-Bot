@@ -1,0 +1,23 @@
+{
+  "birthplace": {
+    "value": "Shawnee, Oklahoma, United States"
+  }, 
+  "name": {
+    "value": "Brad Pitt"
+  }, 
+  "residence": {
+    "value": "USA"
+  },
+  "first movie": {
+    "value": "Thelma & Louise"
+  }, 
+  "birthday": {
+    "value": "18/12/1963"
+  }, 
+  "spouse": {
+    "value": "Angelina Jolie"
+  }, 
+  "description": {
+    "value": "an American actor and producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories, and received two further Academy Award nominations, winning one, for productions of his film production company Plan B Entertainment."
+  }
+}
